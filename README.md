@@ -31,7 +31,7 @@
 
 ```$ curl http://localhost:5000 --header "Content-Type: application/json" --data "I love applesauce!"```
 
-![alt text](./img.png?raw=true "GO8 Sentiment Analysis")
+![alt text](./img.png "GO8 Sentiment Analysis")
 
 You can also use Postman if you like.
 
