@@ -6,6 +6,8 @@
 
 [spaCy](https://spacy.io/models/en)
 
+[Pandas](http://pandas.pydata.org/)
+
 ##### Usage: ####
 __Activate environment__
 ```$ source bin/activate ```
