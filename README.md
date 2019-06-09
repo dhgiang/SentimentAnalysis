@@ -16,5 +16,5 @@ __Install requirements__
 __Update dictionary__
 ```$ python -m spacy download en_core_web_sm```
 
-__Run app_
+__Run app__
 ```$ python gots8sentimentAnalysis.py```
