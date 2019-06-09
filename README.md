@@ -20,3 +20,5 @@ __Update dictionary__
 
 __Run app__
 ```$ python gots8sentimentAnalysis.py```
+
+Note: not all the modules in requirements.txt is necessary, only whatever is stated in this README.me file
