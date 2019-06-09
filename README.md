@@ -23,6 +23,10 @@
 ```$ python -m spacy download en_core_web_md```  
 ```$ python -m spacy download en_core_web_lg```  
 
+##### Snapshot Capture #####
+![alt text](./img.png "GO8 Sentiment Analysis")
+
+
 ##### Run app #####
 ```$ python gots8sentimentAnalysis.py```
 
@@ -31,7 +35,6 @@
 
 ```$ curl http://localhost:5000 --header "Content-Type: application/json" --data "I love applesauce!"```
 
-![alt text](./img.png "GO8 Sentiment Analysis")
 
 You can also use Postman if you like.
 
