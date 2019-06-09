@@ -1,4 +1,4 @@
-This material was used in two of my tech tutorials, which you can find below:
+### Sentiment Analysis ###
 
 [VaderSentiment](https://github.com/cjhutto/vaderSentiment)
 
