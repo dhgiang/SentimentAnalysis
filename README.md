@@ -26,7 +26,7 @@
 ##### Run app #####
 ```$ python gots8sentimentAnalysis.py```
 
-#### Run Flask Server: ####
+##### Run Flask Server: #####
 ```$ FLASK_APP=app.py flask run```
 
 ```$ curl http://localhost:5000 --header "Content-Type: application/json" --data "I love applesauce!"```
