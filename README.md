@@ -34,7 +34,7 @@
 
 ```$ curl http://localhost:5000 --header "Content-Type: application/json" --data "I love applesauce!"```  
 
-Expected: ```[{"compound": 0.0, "neg": 0.0, "neu": 0.0, "pos": 0.0}, {"compound": -0.5719, "neg": 0.787, "neu": 0.213, "pos": 0.0}]```
+Expected:  ```[{"compound": 0.0, "neg": 0.0, "neu": 0.0, "pos": 0.0}, {"compound": -0.5719, "neg": 0.787, "neu": 0.213, "pos": 0.0}]```
 
 You can also use Postman if you like.
 
