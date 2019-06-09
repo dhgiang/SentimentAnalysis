@@ -19,9 +19,9 @@
 ```$ pip install -r requirements.txt```
 
 ##### Update dictionary #####
-```$ python -m spacy download en_core_web_sm```
-```$ python -m spacy download en_core_web_md```
-```$ python -m spacy download en_core_web_lg```
+```$ python -m spacy download en_core_web_sm```  
+```$ python -m spacy download en_core_web_md```  
+```$ python -m spacy download en_core_web_lg```  
 
 ##### Run app #####
 ```$ python gots8sentimentAnalysis.py```
