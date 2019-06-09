@@ -23,12 +23,11 @@
 ```$ python -m spacy download en_core_web_md```  
 ```$ python -m spacy download en_core_web_lg```  
 
-##### Snapshot Capture #####
-![alt text](./img.png "GO8 Sentiment Analysis")
-
-
 ##### Run app #####
 ```$ python gots8sentimentAnalysis.py```
+
+##### Snapshot Capture #####
+![alt text](./img.png "GO8 Sentiment Analysis")
 
 ##### Run Flask Server: #####
 ```$ FLASK_APP=app.py flask run```
