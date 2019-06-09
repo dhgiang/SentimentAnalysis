@@ -10,22 +10,25 @@
 
 [Flask](http://flask.pocoo.org/)
 
-##### Usage: ####
-__Activate environment__
+### Usage: ###
+
+##### Activate environment #####
 ```$ source bin/activate ```
 
-__Install requirements__
+##### Install requirements #####
 ```$ pip install -r requirements.txt```
 
-__Update dictionary__
+##### Update dictionary #####
 ```$ python -m spacy download en_core_web_sm```
+```$ python -m spacy download en_core_web_md```
+```$ python -m spacy download en_core_web_lg```
 
-__Run app__
+##### Run app #####
 ```$ python gots8sentimentAnalysis.py```
 
 #### Run Flask Server: ####
-```FLASK_APP=app.py flask run```
+```$ FLASK_APP=app.py flask run```
 
-```curl http://localhost:5000 --header "Content-Type: application/json" --data "I love applesauce!"```
+```$ curl http://localhost:5000 --header "Content-Type: application/json" --data "I love applesauce!"```
 
 Note: not all the modules in requirements.txt is necessary, only whatever is stated in this README.me file
