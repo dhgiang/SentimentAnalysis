@@ -13,7 +13,7 @@ joblib==0.13.2
 jsonschema==2.6.0
 MarkupSafe==1.1.1
 murmurhash==1.0.2
-nltk==3.4.1
+nltk==3.6.3
 numpy==1.16.1
 oauthlib==3.0.1
 packaging==19.0
